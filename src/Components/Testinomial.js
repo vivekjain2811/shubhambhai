@@ -7,7 +7,7 @@ function Testinomial(props) {
 
    function leftshiftHandler(){
 if(index-1<0){
-setINndex(reviews.lemgth-1);
+setINndex(reviews.length-1);
 }
 else
 {
